@@ -30,7 +30,7 @@ function App() {
             </h3>
             <h3
               className="text-black text-center text-xl font-medium w-[25rem] bg-slate-200 p-2 opacity-50"
-              numberOfLines={2}
+              numberOfLines={3}
             >
               {Gallery[selected].description}
             </h3>
